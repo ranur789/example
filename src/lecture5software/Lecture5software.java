@@ -6,7 +6,7 @@
 package lecture5software;
 
 /**
- *
+ *//commedntrdtfgyhresydrftguyihdryftghj
  * @author ravne
  */
 public class Lecture5software {
@@ -19,3 +19,4 @@ public class Lecture5software {
     }
     
 }
+//
